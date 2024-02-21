@@ -1,0 +1,17 @@
+class HelloWorld {
+    public static void main(String[] args) {
+       
+       
+       String nome;
+       String sobrenome = "da Silva";
+      int idade = 19;
+      double metros = 50.3;
+      char sexo = 'm';
+      boolean certo = true;
+      Integer ano = 2004
+      float valor = 84;
+      boolean temCNH = true;
+      boolean temRegistroGeral = true;
+      
+    }
+}
