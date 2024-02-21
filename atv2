@@ -1,0 +1,25 @@
+Jeito errado
+ 1nomeProduto
+ preçoProduto%
+ marca do produto
+ quantidade produto
+ _descricaoProduto
+ NomeProduto
+ 123_numeroProduto
+ precoDoProduto
+ estoque Disponivel
+ totaldeProdutos
+ 
+ 
+ 
+ Jeito certo
+ nomeProduto
+ precoProduto
+ marcaDoProduto
+ quantidadeProduto
+ descricaoProduto
+ NomeProduto
+ numeroProduto
+ precoDoProduto
+ estoqueDisponivel
+ totalDeProdutos
